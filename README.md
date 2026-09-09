@@ -74,4 +74,4 @@ DesktopClock/
 
 ## 📄 License
 
-[MIT](LICENSE) © [gouguoliang](https://github.com/gouguoliang)
+[MIT](LICENSE) © [GG-0407](https://github.com/GG-0407)
