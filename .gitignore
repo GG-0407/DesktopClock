@@ -1,0 +1,17 @@
+# ── 构建产物（可用 build.bat 重新生成） ──
+*.exe
+*.pdb
+*.dll
+bin/
+obj/
+*.cache
+
+# ── 运行配置（程序自动生成） ──
+DesktopClock.ini
+
+# ── IDE/系统杂项 ──
+.vs/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
