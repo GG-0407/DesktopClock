@@ -6,6 +6,8 @@ A clean, elegant **desktop clock widget for Windows**. It shows the Gregorian da
 
 > Note: the app UI is in Chinese, and the weather source is a Chinese weather service (best for Chinese cities).
 
+▶️ **[Watch the demo video (demo.mp4, ~24s)](demo.mp4)** — dragging the clock, changing settings, weather
+
 ## ✨ Features
 
 - 🕐 **Large clock time** — optional seconds, gradient + shadow text, font size 28–240
