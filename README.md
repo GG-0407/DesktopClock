@@ -1,5 +1,7 @@
 # 🕐 桌面时钟 DesktopClock
 
+**中文** | [English](README.en.md)
+
 一款简洁大气的 **Windows 桌面时钟挂件**。显示公历、农历、星期、节日、节气、天气。内存占用小（约 24MB 私有内存），无需安装任何运行环境，双击即用。
 
 ![桌面时钟运行截图](screenshot.png)

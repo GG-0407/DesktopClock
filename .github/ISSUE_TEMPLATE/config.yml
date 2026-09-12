@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 使用交流 / 提问
+    url: https://github.com/GG-0407/DesktopClock/discussions
+    about: 使用问题、经验交流、想法讨论，请到 Discussions 区
+  - name: 📥 下载最新版
+    url: https://github.com/GG-0407/DesktopClock/releases
+    about: 前往 Releases 下载 DesktopClock.exe
